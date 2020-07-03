@@ -1,0 +1,24 @@
+{
+  "name": "cheatsheets",
+  "version": "1.0.0",
+  "description": "All my programming language cheatsheets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emontaigne/cheatsheets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emontaigne/cheatsheets/issues"
+  },
+  "homepage": "https://github.com/emontaigne/cheatsheets#readme",
+  "dependencies": {
+    "highlight.js": "^10.1.1",
+    "parcel-bundler": "^1.12.4"
+  }
+}
